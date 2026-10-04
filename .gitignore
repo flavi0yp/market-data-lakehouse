@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Secretos
+.env
+*.key
+secrets*
+
+# Databricks y notebooks
+.databricks/
+.ipynb_checkpoints/
+
+# Datos locales
+data/
